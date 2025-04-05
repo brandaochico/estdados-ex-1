@@ -2,5 +2,5 @@
 Exercício 1 da cadeira de Estrutura da Dados da Unilasalle.
 
 # Alunos
-Francisco Brandão
+Francisco Brandão,
 Leandro Pinzon
